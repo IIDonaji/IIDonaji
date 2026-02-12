@@ -1,9 +1,6 @@
 # ✨✨ Hola! Ixel here (pronounced "ee-shell") ✨✨ 
 
-I am an early career data scientist excited to apply my skills in ecology, conservation, and restoration to support a sustainable world. I value creativity and strong collaborations across fields to develop progressive environmental solutions and management strategies. I hope to bring inclusivity to the data science field.
-
-
-
+I'm an early-career data scientist driven to use ecology, conservation, and restoration to help build a more sustainable future. I thrive on creativity and cross‑disciplinary collaboration to push environmental solutions forward. I’m committed to fostering greater inclusivity within the data science field.
 <!--
 **IIDonaji/IIDonaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
