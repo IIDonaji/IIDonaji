@@ -30,7 +30,7 @@ An R package that enables on-demand querying of large-scale geospatial datasets 
 🔗 [Explore the ignitR-package project organization:](https://github.com/ignitR-package)
 
 ### 🌎 Why This Work
-I’m motivated by the role data can play in understanding and responding to environmental change. I enjoy building tools that help bridge the gap between complex datasets and the people working to study and protect natural systems.
+I’m motivated by the role data can play in understanding and responding to environmental change. I enjoy building tools that help bridge the gap between complex datasets and the people working to study, protect, and preserve natural and cultural systems.
 
 ### 📫 Connect with Me
 - [LinkedIn:](www.linkedin.com/in/ixel-m-337911126)
